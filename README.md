@@ -5,7 +5,7 @@ This is the **backend API** for the Emotion Explorer project. It handles NLP-bas
 
 ---
 
-## ⚙Features
+## Features
 
 - Emotion detection using Hugging Face models (Transformers)
 - GPT story generation via OpenAI API
@@ -30,7 +30,7 @@ PORT=3001
 ```
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Node.js** + **Express**
 - **OpenAI API** – GPT-based story generation
@@ -52,7 +52,7 @@ PORT=3001
 ## Project Status
 
 - MVP Complete
-- 🛠Actively evolving as part of the broader Reflexion Platform
+- Actively evolving as part of the broader Reflexion Platform
 
 ---
 
